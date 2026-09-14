@@ -197,3 +197,24 @@ terraform destroy -auto-approve
 ## Итоговый коммит
 
 [`b6f8481 — Terraform homework 03`](https://github.com/wwwsokol999-ui/terraform-homework-03/commit/b6f8481838c8f40e259cff8828dc3b87fc219b70)
+
+
+## Скриншоты выполнения
+
+### Задание 1. Группа безопасности
+
+![Группа безопасности](./1-1.png)
+
+![Правила входящего трафика](./1-2.png)
+
+
+
+![Виртуальные машины](./1-3.png)
+
+
+
+![Диски и storage](./1-4.png)
+
+
+
+![Ansible inventory](./1-5.png)
