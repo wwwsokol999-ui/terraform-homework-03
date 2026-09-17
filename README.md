@@ -1,3 +1,14 @@
+## Исходный код
+
+- [count-vm.tf](./count-vm.tf)
+- [for_each-vm.tf](./for_each-vm.tf)
+- [disk_vm.tf](./disk_vm.tf)
+- [security.tf](./security.tf)
+- [ansible.tf](./ansible.tf)
+- [inventory.tftpl](./inventory.tftpl)
+- [variables.tf](./variables.tf)
+- [providers.tf](./providers.tf)
+
 # Домашнее задание «Управляющие конструкции в коде Terraform»
 
 Репозиторий содержит выполнение домашнего задания Netology по теме **«Управляющие конструкции в коде Terraform»**.
